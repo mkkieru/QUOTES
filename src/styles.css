@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body{  
+ background-image: url(./assets/ap.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: right;
+}
+nav{
+    background-color:rgb(142, 245, 211);
+    color: azure;
+}
+.logo{
+    font-size: 30px; 
+}
+.navbar-brand{
+    font-weight: 700;
+}
+
+nav a{
+    color:white;
+}
+nav a:hover{
+    color:white;
+}
