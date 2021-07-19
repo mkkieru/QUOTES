@@ -1,11 +1,11 @@
 <div class="container pt-5 pb-5">
 
-    <h1 class="text-muted">Created Quotes</h1>
+    <h1 >Created Quotes</h1>
     <hr>
     <div class="row">
-      <div class="col-md-7">
+      <div class="col-md-7" id="rangi">
         <div class="row">
-          <div class="card col-md-9 m-1" *ngFor='let quote of quote;let i = index'>
+          <div class="card col-md-9 m-1"  *ngFor='let quote of quote;let i = index'>
             <div class="card-body">
               <span *ngIf='quote.like >= 10' appHighlight>
                 <p class="card-text">{{quote.quote}}</p>
@@ -24,7 +24,7 @@
           </div>
         </div>
       </div>
-      <div class="col-md-5">
+      <div class="col-md-5" id="rangi">
         <app-quote-form (addQuote)="addNewQuote($event)"></app-quote-form>
       </div>
     </div>
