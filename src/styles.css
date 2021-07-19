@@ -10,10 +10,10 @@ body{
 }
 nav{
     background-color:rgb(176, 142, 245);
-    color: azure;
+    color: whitesmoke;
 }
 .logo{
-    font-size: 30px; 
+    font-size: 27px; 
 }
 .navbar-brand{
     font-weight: 700;
