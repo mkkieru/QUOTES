@@ -2,14 +2,14 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 
 body{  
- background-image: url(./assets/ap.jpg);
+ background-image: url(./assets/HD-Free-Download-Good-Night-Images.jpg);
  background-repeat: no-repeat;
  background-attachment: fixed;
  background-size: cover;
  background-position: right;
 }
 nav{
-    background-color:rgb(142, 245, 211);
+    background-color:rgb(176, 142, 245);
     color: azure;
 }
 .logo{
