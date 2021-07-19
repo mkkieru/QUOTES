@@ -8,20 +8,20 @@
 
 | Input                        | Ouput                                                                                            |
 |--------------------------    |----------------------------------------------------------------------------------------------    |
-| User clicks Post  Quote     | Quote form displays with input fields for Author, Publisher                  |
-| User Clicks Delete           | The quote is purged from view             |
-| User clicks Upvote        |   upvote is incremented value by   1 on each click      |
-| User clicks Downvote     | downvote is decremented value by 1 on each click     |
+| User clicks Post  Quote      | Quote form displays with input fields for Author, Publisher                                      |
+| User Clicks Delete           | The quote is purged from view                                                                    |
+| User clicks Upvote           | upvote is incremented value by   1 on each click                                                 |
+| User clicks Downvote         | downvote is decremented value by 1 on each click                                                 |
 
 ## Setup/Installation requirements
 
-- Clone  or download and unzip the repository from github,[ https://mkkieru.github.io/Quotes/]
-- If you have git Use this command `git clone *` to clone the project.
+- Clone  or download and unzip the repository from github,[https://github.com/mkkieru/Quotes.git]
+- If you have git Use this command `git clone https://github.com/mkkieru/Quotes.git` to clone the project.
 - Run ng serve from your terminal
 
 ## Live Demo
 To view the page click on the link below
-*
+https://mkkieru.github.io/Quotes
 
 ## Technologies Used
 - Angular CLI
@@ -30,10 +30,10 @@ To view the page click on the link below
 - There are no known bugs currently. The page works as expected.
 
 ## Support and Contact Details
-- For any comments,suggestions,feedback or inquiries, contact me via email: salanoelabonga98@gmail.com
+- For any comments,suggestions,feedback or inquiries, contact me via email:mkkieru55@gmail.com
 
 
 - Make contributions to the code.
 
 ## License
-- This project is licensed under the MIT Open Source license Copyright (c) 2021. [Debbie Elabonga]
+- This project is licensed under the MIT Open Source license Copyright (c) 2021. [Mark Kieru]
