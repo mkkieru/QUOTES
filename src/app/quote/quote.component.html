@@ -15,11 +15,11 @@
               </span>
               <p class="card-text"><small class="text-muted">Published By: {{quote.publisher}}</small></p>
               <p class="card-text"><small class="text-muted">Created On: {{quote.completeDate|date}}</small></p>
-              <div class="card-footer">
+              <p>
                 <button class="btn" (click)='toggleDetails(i)'>Details</button>
                 <app-quote-detail *ngIf='quote.showDescription' [quote]='quote' (isComplete)='deleteQuote($event,i)'>
                 </app-quote-detail>
-              </div>
+              </p>
             </div>
           </div>
         </div>
