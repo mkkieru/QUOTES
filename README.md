@@ -15,7 +15,7 @@
 
 ## Setup/Installation requirements
 
-- Clone  or download and unzip the repository from github,[ https://github.com/DebbieElabonga/Quote-app]
+- Clone  or download and unzip the repository from github,[ https://mkkieru.github.io/Quotes/]
 - If you have git Use this command `git clone *` to clone the project.
 - Run ng serve from your terminal
 
